@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi!👋 I'm Jyoti 😋</h1>
+<h3 align="center">Full Stack Web Developer 💎</h3>
 
-<!--
-**jyotichand/jyotichand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotichand" alt="Jyoti" /> </p>
 
-Here are some ideas to get you started:
+<div>
+  
+- I mostly work in *Javascript* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m comfortabe with *NodeJS*
+
+- Some of my projects are available at my [Github](https://github.com/jyotichand?tab=repositories)
+
+- Skills- *Data Structures and Algorithms,HTML,CSS,Javascript,Node.js*
+
+- Contact me- *jyotichandg10@gmail.com*
+
+</div>
